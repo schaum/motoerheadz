@@ -3,7 +3,7 @@
  *  Demo
  *
  *  Created by UrbanBieri on 13.03.10.
- *  a changed program of Peter Danegger:  danni@specs.de 
+ *  a changed program of Peter Danegger
  *	see: http://www.mikrocontroller.net/articles/Entprellung
  *
  */

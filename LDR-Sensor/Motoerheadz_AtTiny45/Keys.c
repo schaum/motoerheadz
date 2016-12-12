@@ -3,7 +3,7 @@
  *  Demo
  *
  *  Created by UrbanBieri on 16.09.16.
- *  a changed class of Peter Danegger:  danni@specs.de 
+ *  a changed class of Peter Danegger
  *	see: http://www.mikrocontroller.net/articles/Entprellung
  *
  */

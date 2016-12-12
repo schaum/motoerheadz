@@ -4,7 +4,7 @@
 
    attiny13 rhythm experiments
 
-   15.9.16 urban.bieri(at)mechatronicart.ch
+   15.9.16 Urban Bieri (schaum)
 
 *************************************************************************/
 /*************************************************************************
@@ -346,7 +346,7 @@ void loop() {
 
 /***************************************************************************
 *   
-*   (c) 2016 urbanbieri(at)mechatronicart.ch
+*   (c) 2016 Urban Bieri
 *
 ***************************************************************************
 *   This program is free software; you can redistribute it and/or modify  *
