@@ -1,10 +1,3 @@
-# Name: fthics-swap
-# Author: Urban Bieri
-# Copyright: VRBS
-# License: very very restrictive
-
-# This is a prototype Makefile. Modify it according to your needs.
-# You should at least check the settings for
 # DEVICE ....... The AVR device you compile for
 # CLOCK ........ Target AVR clock rate in Hertz
 # OBJECTS ...... The object files created from your source files. This list is
